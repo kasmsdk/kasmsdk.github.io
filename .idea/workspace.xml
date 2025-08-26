@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.14 adding the new Jog feature">
+    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.14.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1.14.3/Kasm Canvas.amxd" beforeDir="false" afterPath="$PROJECT_DIR$/v1.14.3/Kasm Canvas.amxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1.14.3/kasm_canvas_arpy_obs.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1.14.3/kasm_canvas_arpy_obs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1.14.3/kasm_canvas_obs.html" beforeDir="false" afterPath="$PROJECT_DIR$/v1.14.3/kasm_canvas_obs.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/klambert/workspace/github_kasmsdk/kasmsdk.github.io/latest&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/klambert/workspace/github_kasmsdk/kasmsdk.github.io/v1.14.3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
@@ -51,6 +54,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v1.14.3" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/latest" />
     </key>
   </component>
@@ -129,6 +134,8 @@
       <workItem from="1756045726085" duration="323000" />
       <workItem from="1756079559813" duration="2000" />
       <workItem from="1756162794627" duration="634000" />
+      <workItem from="1756163952955" duration="104000" />
+      <workItem from="1756168523871" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Kams SDK v1.14 Emanator/Bangaz/Arpy editor tools">
       <option name="closed" value="true" />
@@ -346,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755830711216</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Kams SDK v1.14.3">
+      <option name="closed" value="true" />
+      <created>1756164048479</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1756164048479</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,6 +373,7 @@
     <MESSAGE value="Kams SDK v1.14 UI tweaks" />
     <MESSAGE value="Kams SDK v1.14 adding baseline for Arpy/Bangaz/Triggaz/Emanator editors" />
     <MESSAGE value="Kams SDK v1.14 adding the new Jog feature" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kams SDK v1.14 adding the new Jog feature" />
+    <MESSAGE value="Kams SDK v1.14.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kams SDK v1.14.3" />
   </component>
 </project>
