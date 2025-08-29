@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"enum":["MidiEventType","RuleOutcome","RulezType"],"fn":["add_rule","apply_all_rules","apply_rules_chain","apply_rules_to_note","can_send_note","clear_rules","filter_or_modify_cc","filter_or_modify_note","kasm_config","remove_rule"],"static":["ACTIVE_RULES"],"struct":["NoteData","Rulez","RulezResult"],"trait":["InstrumentRule"]};

@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["MAX_NOTES_TWO_HANDS_CAN_PLAY"],"fn":["can_add_hand_drums_note","enforce_hand_drums_rule"],"static":["NOTES_AT_TIMESTAMP"],"struct":["HandDrumsRule"]};

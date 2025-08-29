@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"constant":["GUITAR_STRUM_MINIMUM_REPEAT_MS","GUITAR_TRILL_MINIMUM_REPEAT_MS","VIOLIN_MINIMUM_REPEAT_MS"],"fn":["can_add_stringed_note","enforce_minimum_string_repeat_interval"],"struct":["StringedRule"]};

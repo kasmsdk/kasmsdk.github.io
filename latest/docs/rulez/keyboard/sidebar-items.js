@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["can_add_keyboard_note"],"struct":["KeyboardRule"]};
