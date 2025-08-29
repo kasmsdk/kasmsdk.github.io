@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["can_add_guitar_note"],"struct":["GuitarRule"]};

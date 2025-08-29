@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BowedInstrument"],"fn":["can_add_bowed_note"],"struct":["BowedParams","BowedRule"]};
