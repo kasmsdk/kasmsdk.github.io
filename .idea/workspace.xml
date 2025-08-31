@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.14.3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.14.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,6 +144,7 @@
       <workItem from="1756601455685" duration="63000" />
       <workItem from="1756601596348" duration="273000" />
       <workItem from="1756601901336" duration="606000" />
+      <workItem from="1756602966137" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Kams SDK v1.14 Emanator/Bangaz/Arpy editor tools">
       <option name="closed" value="true" />
