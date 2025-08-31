@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.14.3">
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Arpy.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Bangaz.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Canvas.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Emanator Generator.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Emanator Transformation.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Emanator.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Jog.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm LFO.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm MIDI Tape Loop.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Rulez.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Rust WASM.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm Triggaz.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/Kasm WebGPU.amxd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/arpy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/bangaz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/emanator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/jog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/kasm_WASM_rust_obs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/kasm_canvas_arpy_obs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/kasm_canvas_jog_obs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/kasm_canvas_obs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/kasm_webgpu_obs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/kasm_webmidi_obs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/v1.15/lfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/klambert/workspace/github_kasmsdk/kasmsdk.github.io/v1.15",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/klambert/workspace/github_kasmsdk/kasmsdk.github.io/v1.15&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/v1.15" />
@@ -167,6 +144,8 @@
       <workItem from="1756456729656" duration="63000" />
       <workItem from="1756504453807" duration="3006000" />
       <workItem from="1756601455685" duration="63000" />
+      <workItem from="1756601596348" duration="273000" />
+      <workItem from="1756601901336" duration="606000" />
     </task>
     <task id="LOCAL-00001" summary="Kams SDK v1.14 Emanator/Bangaz/Arpy editor tools">
       <option name="closed" value="true" />
