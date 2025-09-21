@@ -5,64 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.15 Kasm Pose examples">
-      <change beforePath="$PROJECT_DIR$/main-046xre3r.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-1mk3Luoo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-3GzhVYsT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-3yqRn_1g.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-4SngqiCD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-7IYAmRh8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-8k6LaGM9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-B-nNIZS1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-B6UsR0vd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-B9iXOZpH.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BC7kjMVf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BHROKfdP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BPhYMH_s.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BQIfW4Ih.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BU90--rR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BVRc4TrU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BWU90U1V.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BZw5rpxb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Ba0WxoMV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Be2l2vxV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BiGOzkfV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BlPIhxPs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Br0JLdAz.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BtMuARZs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Bu2sdjYG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BvJvvQJ2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BwhaZH4q.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-BxIukGcq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-C9HCzP0v.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-CMWhD_Js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-CTRNbWGA.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-CU_ZftEZ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Cjde4OmX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Cl5elfcD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-D-jAYTKq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-D63JjqRX.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-DK4I3Psh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Dbl-mTA-.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-DiHSJrrr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-DlH1YicQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-DvyhNPvy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-GWijA1Zr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-Ix2jzO22.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-L6XawQg2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-NBsucfBl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-NZzratWF.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-QRCrmnku.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-UcBM6PVw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-W5sZvyBq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-YD4znQJa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-aDKpOyDW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-adDtLJg3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-arJpDo1_.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-jg1KYO5w.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-kPjSOag7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-wEyEejMo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-xTDGRnvi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main-yb_0z1n4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +166,8 @@
       <workItem from="1758439666260" duration="93000" />
       <workItem from="1758440008432" duration="69000" />
       <workItem from="1758440260382" duration="91000" />
-      <workItem from="1758440435030" duration="305000" />
+      <workItem from="1758440435030" duration="354000" />
+      <workItem from="1758440824403" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Kams SDK v1.14 Emanator/Bangaz/Arpy editor tools">
       <option name="closed" value="true" />
@@ -505,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758440323630</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Kams SDK v1.15 Kasm Pose examples">
+      <option name="closed" value="true" />
+      <created>1758440783378</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1758440783378</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
