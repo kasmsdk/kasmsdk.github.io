@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.15 Kasm Pose examples">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.15 Kasm Pose examples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,6 +166,7 @@
       <workItem from="1758440260382" duration="91000" />
       <workItem from="1758440435030" duration="354000" />
       <workItem from="1758440824403" duration="5000" />
+      <workItem from="1758441310887" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="Kams SDK v1.14 Emanator/Bangaz/Arpy editor tools">
       <option name="closed" value="true" />
@@ -457,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758440783378</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Kams SDK v1.15 Kasm Pose examples">
+      <option name="closed" value="true" />
+      <created>1758441351676</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1758441351676</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
