@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.15">
+    <list default="true" id="708d15bc-6c6a-40f1-8502-5fa45fb78b67" name="Changes" comment="Kams SDK v1.15 Kasm Pose examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,6 +162,8 @@
       <workItem from="1758402210752" duration="1982000" />
       <workItem from="1758415579902" duration="598000" />
       <workItem from="1758426925625" duration="597000" />
+      <workItem from="1758439295899" duration="83000" />
+      <workItem from="1758439666260" duration="93000" />
     </task>
     <task id="LOCAL-00001" summary="Kams SDK v1.14 Emanator/Bangaz/Arpy editor tools">
       <option name="closed" value="true" />
@@ -419,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756603570149</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Kams SDK v1.15 Kasm Pose examples">
+      <option name="closed" value="true" />
+      <created>1758439351760</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1758439351760</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,6 +443,7 @@
     <MESSAGE value="Kams SDK v1.14 adding the new Jog feature" />
     <MESSAGE value="Kams SDK v1.14.3" />
     <MESSAGE value="Kams SDK v1.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kams SDK v1.15" />
+    <MESSAGE value="Kams SDK v1.15 Kasm Pose examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kams SDK v1.15 Kasm Pose examples" />
   </component>
 </project>
