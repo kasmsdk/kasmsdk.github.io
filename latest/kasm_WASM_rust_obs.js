@@ -4,7 +4,7 @@
 // Go build similar instruments like this using Kasm Rust WASM SDK here:
 //     https://pyrmontbrewery.com/get_kasm
 
-// Version: 1.2
+// Version: 1.17
 
 // Gist of what you'll find in the Rust code that is compiled as part of this JavaScript file
 
