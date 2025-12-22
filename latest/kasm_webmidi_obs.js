@@ -4,9 +4,9 @@
 
 // Go build similar instruments like this using Kasm Rust WASM SDK here:
 //     https://pyrmontbrewery.com/get_kasm
-//     
+//
 
-// Version: 1.18.2
+// Version: 1.18.3
 
 /*
  * Copyright (c) Pyrmont Brewery 2025
