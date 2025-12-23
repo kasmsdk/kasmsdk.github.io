@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["bowed","dials_and_faders","guitar","hand_drums","keyboard","stringed"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_NOTES_TWO_HANDS_CAN_PLAY"],"struct":["HandDrumsRule"]};
